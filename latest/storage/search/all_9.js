@@ -1,18 +1,9 @@
 var searchData=
 [
-  ['object',['Object',['../classstorage_1_1v_1_1Object.html',1,'storage::v::Object'],['../classstorage_1_1v_1_1Object.html#a253a769ed73c9670952aede5126177c5',1,'storage::v::Object::Object()']]],
-  ['object_2ecc',['object.cc',['../object_8cc.html',1,'']]],
-  ['object_2eh',['object.h',['../object_8h.html',1,'']]],
-  ['object_5fmetadata_2ecc',['object_metadata.cc',['../object__metadata_8cc.html',1,'']]],
-  ['object_5fmetadata_2eh',['object_metadata.h',['../object__metadata_8h.html',1,'']]],
-  ['object_5fname',['object_name',['../classstorage_1_1v_1_1Object.html#a2822f7d683c1d48d0401f708a2aabaae',1,'storage::v::Object']]],
-  ['objectmetadata',['ObjectMetadata',['../classstorage_1_1v_1_1ObjectMetadata.html',1,'storage::v::ObjectMetadata'],['../classstorage_1_1v_1_1ObjectMetadata.html#a3f1f9bf6c8ef7108837aa145a88271e6',1,'storage::v::ObjectMetadata::ObjectMetadata()']]],
-  ['ok',['ok',['../classstorage_1_1v_1_1Status.html#adeab6dd17a94ca39cc4e148dbb5352e1',1,'storage::v::Status']]],
-  ['operator_21_3d',['operator!=',['../classstorage_1_1v_1_1BucketMetadata.html#af19302ba685d775f93ee095bb20af3c0',1,'storage::v::BucketMetadata::operator!=()'],['../classstorage_1_1v_1_1ObjectMetadata.html#a06d9e2991e16c47f24acb0c4645c055b',1,'storage::v::ObjectMetadata::operator!=()'],['../classstorage_1_1v_1_1Status.html#aa4f78bdb96e95e0e2b4a2024cdf5f558',1,'storage::v::Status::operator!=()']]],
-  ['operator_3c',['operator&lt;',['../classstorage_1_1v_1_1Status.html#a690bf2bb98823d91b6977c193ff411a5',1,'storage::v::Status']]],
-  ['operator_3c_3c',['operator&lt;&lt;',['../classstorage_1_1v_1_1BucketMetadata.html#a62761f1abd6e11510ac74d60c7ef3532',1,'storage::v::BucketMetadata::operator&lt;&lt;()'],['../classstorage_1_1v_1_1ObjectMetadata.html#a4d65ad17192085650f535671a3c65f97',1,'storage::v::ObjectMetadata::operator&lt;&lt;()'],['../namespacestorage_1_1v.html#a642f950140ca4e0be1deeae9f3138a2a',1,'storage::v::operator&lt;&lt;(std::ostream &amp;os, BucketMetadata const &amp;rhs)'],['../namespacestorage_1_1v.html#aa03da82261721fa87b36137fafda54a5',1,'storage::v::operator&lt;&lt;(std::ostream &amp;os, ObjectMetadata const &amp;rhs)'],['../namespacestorage_1_1v.html#ad9182fe796c31543dd63964cc0bc07f0',1,'storage::v::operator&lt;&lt;(std::ostream &amp;os, Status const &amp;rhs)']]],
-  ['operator_3c_3d',['operator&lt;=',['../classstorage_1_1v_1_1Status.html#af88ab6c15c4bbc7101d212c01fe864a1',1,'storage::v::Status']]],
-  ['operator_3d_3d',['operator==',['../classstorage_1_1v_1_1BucketMetadata.html#af1d375b38bdec1c9bb9514e33c6fb771',1,'storage::v::BucketMetadata::operator==()'],['../classstorage_1_1v_1_1ObjectMetadata.html#a823b47a52fe4a294bb696c3a5afcf9b3',1,'storage::v::ObjectMetadata::operator==()'],['../classstorage_1_1v_1_1Status.html#a62fe876a19d2c73286b086bfc7389ff9',1,'storage::v::Status::operator==()']]],
-  ['operator_3e',['operator&gt;',['../classstorage_1_1v_1_1Status.html#a30646ba36a1d510f885a820c6a5ec192',1,'storage::v::Status']]],
-  ['operator_3e_3d',['operator&gt;=',['../classstorage_1_1v_1_1Status.html#a965eeebeaac9ad9fea58e7b0d354e900',1,'storage::v::Status']]]
+  ['jsonapiv1',['JsonApiV1',['../namespacegoogle_1_1cloud_1_1storage_1_1v0_1_1payload__format.html#acdee1af9140fab11956dd246e1fc9d7f',1,'google::cloud::storage::v0::payload_format']]],
+  ['jsonpayloadforcompose',['JsonPayloadForCompose',['../classgoogle_1_1cloud_1_1storage_1_1v0_1_1ObjectMetadata.html#a13f90d8df5e2477cba0a27cf134a2936',1,'google::cloud::storage::v0::ObjectMetadata']]],
+  ['jsonpayloadforcopy',['JsonPayloadForCopy',['../classgoogle_1_1cloud_1_1storage_1_1v0_1_1ObjectMetadata.html#a6c8f856d25e4103e2a3ca24943592eca',1,'google::cloud::storage::v0::ObjectMetadata']]],
+  ['jsonpayloadforinsert',['JsonPayloadForInsert',['../classgoogle_1_1cloud_1_1storage_1_1v0_1_1NotificationMetadata.html#a262a47f632d08ed98a42992251d1274a',1,'google::cloud::storage::v0::NotificationMetadata']]],
+  ['jsonpayloadforupdate',['JsonPayloadForUpdate',['../classgoogle_1_1cloud_1_1storage_1_1v0_1_1ObjectMetadata.html#a0d1cbb5fea5504306112135c8a1ac10f',1,'google::cloud::storage::v0::ObjectMetadata']]],
+  ['jwtsigningalgorithms',['JwtSigningAlgorithms',['../namespacegoogle_1_1cloud_1_1storage_1_1v0_1_1oauth2.html#adf56d5c10f381e0e82e9a2e421ead186',1,'google::cloud::storage::v0::oauth2']]]
 ];

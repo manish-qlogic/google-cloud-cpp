@@ -1,6 +1,23 @@
 var searchData=
 [
-  ['main',['main',['../storage__bucket__samples_8cc.html#a0ddf1224851353fc92bfbff6f499fa97',1,'storage_bucket_samples.cc']]],
-  ['metadata',['metadata',['../classstorage_1_1v_1_1ObjectMetadata.html#af5d8b8d7599d37209ba5243b9e567854',1,'storage::v::ObjectMetadata']]],
-  ['metadata_5fcount',['metadata_count',['../classstorage_1_1v_1_1ObjectMetadata.html#abc528aff61cf210235a1500ffa97fe48',1,'storage::v::ObjectMetadata']]]
+  ['id',['id',['../classgoogle_1_1cloud_1_1storage_1_1v0_1_1NotificationMetadata.html#aa92a5069c76822c1f65eac63b60e7113',1,'google::cloud::storage::v0::NotificationMetadata']]],
+  ['if_5fgeneration_5fmatch',['if_generation_match',['../structgoogle_1_1cloud_1_1storage_1_1v0_1_1ComposeSourceObject.html#af2542831a6af1fd46c025957275a0dbd',1,'google::cloud::storage::v0::ComposeSourceObject']]],
+  ['ifgenerationmatch',['IfGenerationMatch',['../structgoogle_1_1cloud_1_1storage_1_1v0_1_1IfGenerationMatch.html',1,'google::cloud::storage::v0']]],
+  ['ifgenerationnotmatch',['IfGenerationNotMatch',['../structgoogle_1_1cloud_1_1storage_1_1v0_1_1IfGenerationNotMatch.html',1,'google::cloud::storage::v0']]],
+  ['ifmatchetag',['IfMatchEtag',['../structgoogle_1_1cloud_1_1storage_1_1v0_1_1IfMatchEtag.html',1,'google::cloud::storage::v0']]],
+  ['ifmetagenerationmatch',['IfMetagenerationMatch',['../structgoogle_1_1cloud_1_1storage_1_1v0_1_1IfMetagenerationMatch.html',1,'google::cloud::storage::v0']]],
+  ['ifmetagenerationnotmatch',['IfMetagenerationNotMatch',['../structgoogle_1_1cloud_1_1storage_1_1v0_1_1IfMetagenerationNotMatch.html',1,'google::cloud::storage::v0']]],
+  ['ifnonematchetag',['IfNoneMatchEtag',['../structgoogle_1_1cloud_1_1storage_1_1v0_1_1IfNoneMatchEtag.html',1,'google::cloud::storage::v0']]],
+  ['ifsourcegenerationmatch',['IfSourceGenerationMatch',['../structgoogle_1_1cloud_1_1storage_1_1v0_1_1IfSourceGenerationMatch.html',1,'google::cloud::storage::v0']]],
+  ['ifsourcegenerationnotmatch',['IfSourceGenerationNotMatch',['../structgoogle_1_1cloud_1_1storage_1_1v0_1_1IfSourceGenerationNotMatch.html',1,'google::cloud::storage::v0']]],
+  ['ifsourcemetagenerationmatch',['IfSourceMetagenerationMatch',['../structgoogle_1_1cloud_1_1storage_1_1v0_1_1IfSourceMetagenerationMatch.html',1,'google::cloud::storage::v0']]],
+  ['ifsourcemetagenerationnotmatch',['IfSourceMetagenerationNotMatch',['../structgoogle_1_1cloud_1_1storage_1_1v0_1_1IfSourceMetagenerationNotMatch.html',1,'google::cloud::storage::v0']]],
+  ['insertobject',['InsertObject',['../classgoogle_1_1cloud_1_1storage_1_1v0_1_1Client.html#a7610b83f4010d0477942d21c9e4294e3',1,'google::cloud::storage::v0::Client']]],
+  ['is_5flive',['is_live',['../structgoogle_1_1cloud_1_1storage_1_1v0_1_1LifecycleRuleCondition.html#a93b81967293b52a98d77b4c39d3fd9b1',1,'google::cloud::storage::v0::LifecycleRuleCondition']]],
+  ['islive',['IsLive',['../classgoogle_1_1cloud_1_1storage_1_1v0_1_1LifecycleRule.html#ab35f7e79a289ab9959fae5733c144e2e',1,'google::cloud::storage::v0::LifecycleRule']]],
+  ['isopen',['IsOpen',['../classgoogle_1_1cloud_1_1storage_1_1v0_1_1ObjectReadStream.html#acd290c5d85766311f8fecef517518d7c',1,'google::cloud::storage::v0::ObjectReadStream::IsOpen()'],['../classgoogle_1_1cloud_1_1storage_1_1v0_1_1ObjectWriteStream.html#a6824145923a10e5ac814bf3ad3678662',1,'google::cloud::storage::v0::ObjectWriteStream::IsOpen()']]],
+  ['ispermanentfailure',['IsPermanentFailure',['../structgoogle_1_1cloud_1_1storage_1_1v0_1_1internal_1_1StatusTraits.html#aac62be0c681aa0ca1d349dde05fca984',1,'google::cloud::storage::v0::internal::StatusTraits']]],
+  ['iterate',['Iterate',['../classgoogle_1_1cloud_1_1storage_1_1v0_1_1ObjectRewriter.html#a309e46a562b9eda84ff1352628c57efd',1,'google::cloud::storage::v0::ObjectRewriter']]],
+  ['iterator',['iterator',['../classgoogle_1_1cloud_1_1storage_1_1v0_1_1ListBucketsReader.html#ab31328af451b194cb24b08844579daac',1,'google::cloud::storage::v0::ListBucketsReader::iterator()'],['../classgoogle_1_1cloud_1_1storage_1_1v0_1_1ListObjectsReader.html#acebd53d13f76ad782c4c76a34ff0f369',1,'google::cloud::storage::v0::ListObjectsReader::iterator()']]],
+  ['iterator_5fcategory',['iterator_category',['../classgoogle_1_1cloud_1_1storage_1_1v0_1_1ListBucketsIterator.html#a313d4a988acdf819bf3f98cd057bc86d',1,'google::cloud::storage::v0::ListBucketsIterator::iterator_category()'],['../classgoogle_1_1cloud_1_1storage_1_1v0_1_1ListObjectsIterator.html#a0afd613517e9e8821e655f730184c800',1,'google::cloud::storage::v0::ListObjectsIterator::iterator_category()']]]
 ];

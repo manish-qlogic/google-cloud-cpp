@@ -1,6 +1,20 @@
 var searchData=
 [
-  ['insecurecredentials',['InsecureCredentials',['../classstorage_1_1v_1_1InsecureCredentials.html#abfdd3d4d397fe96e33af5a062628ea4f',1,'storage::v::InsecureCredentials']]],
-  ['insertobject',['InsertObject',['../classstorage_1_1v_1_1Bucket.html#a186172177f4691170c67c4ad52bafe72',1,'storage::v::Bucket']]],
-  ['insertobjectmedia',['InsertObjectMedia',['../classstorage_1_1v_1_1Client.html#a2ce20efd5144eba180196d24c7b3a61b',1,'storage::v::Client']]]
+  ['generation',['generation',['../classgoogle_1_1cloud_1_1storage_1_1v0_1_1ObjectAccessControl.html#afaa207745303ee266de015e5ef939cac',1,'google::cloud::storage::v0::ObjectAccessControl::generation()'],['../classgoogle_1_1cloud_1_1storage_1_1v0_1_1ObjectMetadata.html#a4f6ad145cc00911852513bf8d0b33151',1,'google::cloud::storage::v0::ObjectMetadata::generation()']]],
+  ['getbucketacl',['GetBucketAcl',['../classgoogle_1_1cloud_1_1storage_1_1v0_1_1Client.html#ab0825ec57728cfe34b27b0ece813e56e',1,'google::cloud::storage::v0::Client']]],
+  ['getbucketiampolicy',['GetBucketIamPolicy',['../classgoogle_1_1cloud_1_1storage_1_1v0_1_1Client.html#aa8bf1dcf1cd6050b5b587baaf31ef2e4',1,'google::cloud::storage::v0::Client']]],
+  ['getbucketmetadata',['GetBucketMetadata',['../classgoogle_1_1cloud_1_1storage_1_1v0_1_1Client.html#afd704ed4ade663686872c1ee994511cd',1,'google::cloud::storage::v0::Client']]],
+  ['getdefaultobjectacl',['GetDefaultObjectAcl',['../classgoogle_1_1cloud_1_1storage_1_1v0_1_1Client.html#a96e4926587eb3a41c4a33d62dcdf82f4',1,'google::cloud::storage::v0::Client']]],
+  ['getnotification',['GetNotification',['../classgoogle_1_1cloud_1_1storage_1_1v0_1_1Client.html#a4001ae6fa52c38b98d62be2f3f71c949',1,'google::cloud::storage::v0::Client']]],
+  ['getobjectacl',['GetObjectAcl',['../classgoogle_1_1cloud_1_1storage_1_1v0_1_1Client.html#afc4ed4cf90ae7d99abec5acaaf8795cb',1,'google::cloud::storage::v0::Client']]],
+  ['getobjectmetadata',['GetObjectMetadata',['../classgoogle_1_1cloud_1_1storage_1_1v0_1_1Client.html#ae7451d0183db3656e2b1f0f4106e6996',1,'google::cloud::storage::v0::Client']]],
+  ['getserviceaccount',['GetServiceAccount',['../classgoogle_1_1cloud_1_1storage_1_1v0_1_1Client.html#a60b75719e0b7d19eea3cdaa97796d35e',1,'google::cloud::storage::v0::Client']]],
+  ['getserviceaccountforproject',['GetServiceAccountForProject',['../classgoogle_1_1cloud_1_1storage_1_1v0_1_1Client.html#afd8129fecaf20d72ccd078c77dae6d39',1,'google::cloud::storage::v0::Client']]],
+  ['googleapplicationdefaultcredentialsfile',['GoogleApplicationDefaultCredentialsFile',['../namespacegoogle_1_1cloud_1_1storage_1_1v0_1_1oauth2.html#a07c8411fe105c257232c364e4af46259',1,'google::cloud::storage::v0::oauth2']]],
+  ['googleapplicationdefaultcredentialshomevariable',['GoogleApplicationDefaultCredentialsHomeVariable',['../namespacegoogle_1_1cloud_1_1storage_1_1v0_1_1oauth2.html#aa6c934143833385b2756ff3b687b5237',1,'google::cloud::storage::v0::oauth2']]],
+  ['googledefaultcredentials',['GoogleDefaultCredentials',['../namespacegoogle_1_1cloud_1_1storage_1_1v0_1_1oauth2.html#ab53341c1c23948be16477b4950b2581a',1,'google::cloud::storage::v0::oauth2']]],
+  ['googleoauthaccesstokenlifetime',['GoogleOAuthAccessTokenLifetime',['../namespacegoogle_1_1cloud_1_1storage_1_1v0_1_1oauth2.html#a6614708805e3c4d7f342a7aea2267035',1,'google::cloud::storage::v0::oauth2']]],
+  ['googleoauthrefreshendpoint',['GoogleOAuthRefreshEndpoint',['../namespacegoogle_1_1cloud_1_1storage_1_1v0_1_1oauth2.html#a69bb24a052de49e62ee919b98f1f8d68',1,'google::cloud::storage::v0::oauth2']]],
+  ['googleoauthscopecloudplatform',['GoogleOAuthScopeCloudPlatform',['../namespacegoogle_1_1cloud_1_1storage_1_1v0_1_1oauth2.html#a5fddd7a5b7aceed64aa7eb0feb3f19eb',1,'google::cloud::storage::v0::oauth2']]],
+  ['googleoauthtokenexpirationslack',['GoogleOAuthTokenExpirationSlack',['../namespacegoogle_1_1cloud_1_1storage_1_1v0_1_1oauth2.html#a6a42cc5219579a131c8d8b66e9ebfd43',1,'google::cloud::storage::v0::oauth2']]]
 ];

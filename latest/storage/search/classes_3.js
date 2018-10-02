@@ -1,8 +1,5 @@
 var searchData=
 [
-  ['ifgenerationmatch',['IfGenerationMatch',['../structstorage_1_1v_1_1IfGenerationMatch.html',1,'storage::v']]],
-  ['ifgenerationnotmatch',['IfGenerationNotMatch',['../structstorage_1_1v_1_1IfGenerationNotMatch.html',1,'storage::v']]],
-  ['ifmetagenerationmatch',['IfMetaGenerationMatch',['../structstorage_1_1v_1_1IfMetaGenerationMatch.html',1,'storage::v']]],
-  ['ifmetagenerationnotmatch',['IfMetaGenerationNotMatch',['../structstorage_1_1v_1_1IfMetaGenerationNotMatch.html',1,'storage::v']]],
-  ['insecurecredentials',['InsecureCredentials',['../classstorage_1_1v_1_1InsecureCredentials.html',1,'storage::v']]]
+  ['destinationkmskeyname',['DestinationKmsKeyName',['../structgoogle_1_1cloud_1_1storage_1_1v0_1_1DestinationKmsKeyName.html',1,'google::cloud::storage::v0']]],
+  ['destinationpredefinedacl',['DestinationPredefinedAcl',['../structgoogle_1_1cloud_1_1storage_1_1v0_1_1DestinationPredefinedAcl.html',1,'google::cloud::storage::v0']]]
 ];
